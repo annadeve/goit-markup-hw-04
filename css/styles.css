@@ -242,7 +242,7 @@ img {
   align-items: center;
 }
 
-.main-section-container>h1 {
+.main-section-container h1 {
   flex-direction: column;
   font-style: normal;
   font-weight: 800;
